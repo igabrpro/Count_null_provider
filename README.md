@@ -10,7 +10,7 @@
 #### You need to have terraform cli instaled 
 #### [download link](https://www.terraform.io/downloads)
 
-# ***How to use***
+# **How to use**
 ```
     Download the repo bigabrpro/Count_null_provider git clone https://github.com/igabrpro/Count_null_provider.git
     Change to Count_null_provider: cd Count_null_provider
@@ -20,7 +20,7 @@
 ```
     
     
-# ***Expected results***
+# **Expected results**
     
 
 ```
@@ -45,7 +45,7 @@ null_resource.igabr[1]: Creation complete after 0s [id=5478690639949583818]
 There will be 3 object created 
 ```
 
-#**Example**
+# **Example**
 
 ```
 Execute terraform show to check the created objects
